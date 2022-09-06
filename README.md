@@ -35,7 +35,7 @@ wiki по первой модели (Flying Bear Reborn) находится [з�
 
 [Клей лак для 3D печати](https://aliexpress.ru/item/1005002056065320.html)
 
-Растворитель Дихлорметан (Метилен хлористый) 1 литр (1,3 кг) [раз](https://market.yandex.ru/product--dikhlormetan-khloristyi-metilen-99-9-1-litr/2000452799897) и [два](https://market.yandex.ru/product--metilen-khloristyi-dikhlormetan-metallicheskaia-banka-1-l/1468091199)
+Растворитель Дихлорметан (Метилен хлористый) [я.маркет](https://market.yandex.ru/catalog--stroitelstvo-i-remont/54503/list?text=%D0%B4%D0%B8%D1%85%D0%BB%D0%BE%D1%80%D0%BC%D0%B5%D1%82%D0%B0%D0%BD&hid=91597&local-offers-first=0) и [Озон](https://www.ozon.ru/category/dihlormetan-metilen-hloristyy/)
 
 [Лента светодиодная адресная](https://aliexpress.ru/item/1005002605903154.html) - какую именно брать?
 
