@@ -2,7 +2,7 @@
 
 
 #### PLA
-[](https://aliexpress.ru/item/1005004270970940.html)
+
 
 #### PETG
 
@@ -18,4 +18,6 @@
 #### NYLON
 
 
-#### TPU
+#### TPU PLA
+[Eryone + шелк](https://aliexpress.ru/item/1005004270970940.html)
+
