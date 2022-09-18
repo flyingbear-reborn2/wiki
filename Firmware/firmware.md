@@ -1,8 +1,8 @@
 ### Прошивки для FlyingBear Reborn2
 
-[штатная прошивка из архива медведей](Reborn2_v0.1_default.rar)
+[штатная прошивка из архива медведей](files/Reborn2_v0.1_default.rar)
 
-[скомпилированная прошивка, штатная, в Visual Studio](Reborn2_v0.1_compiling_default.rar)
+[скомпилированная прошивка, штатная, в Visual Studio](files/Reborn2_v0.1_compiling_default.rar)
 
 [архив](https://t.me/fbg5_waiters/115181) - TODO: тут видимо, лучше ссылку на источник на гитхабе
 
@@ -12,4 +12,4 @@
 
 ----
 
-[Исправленная прошивка V5](https://t.me/fbg5_waiters/125515)
+[Исправленная прошивка V5](files/Reborn2-V5.zip) - [источник](https://t.me/fbg5_waiters/125515)
