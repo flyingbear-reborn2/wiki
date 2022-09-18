@@ -69,3 +69,4 @@ make menuconfig
 
 ![image5](images/orangePI_pins.jpg)
 
+## [Настройка слайсеров](slicers.md)
