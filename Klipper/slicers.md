@@ -10,20 +10,20 @@
 ![cura4](images/cura4.jpg)
 
 ## SuperSlicer
-[superslicer1](images/superslicer1.jpg)
+![superslicer1](images/superslicer1.jpg)
 
-[superslicer2](images/superslicer2.jpg)
+![superslicer2](images/superslicer2.jpg)
 
-[superslicer3](images/superslicer3.jpg)
+![superslicer3](images/superslicer3.jpg)
 
 
 
 ## PrusaSlicer
-[prusa1](images/prusa1.jpg)
+![prusa1](images/prusa1.jpg)
 
-[prusa2](images/prusa2.jpg)
+![prusa2](images/prusa2.jpg)
 
-[prusa3](images/prusa3.jpg)
+![prusa3](images/prusa3.jpg)
 
 
 by @Juggernaut86 [tg](https://t.me/fbg5_waiters/147831)
