@@ -12,7 +12,9 @@
 
 `
 cd ~/klipper
+
 make clean
+
 make menuconfig
 `
 
